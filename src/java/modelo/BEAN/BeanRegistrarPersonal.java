@@ -1,7 +1,6 @@
 
 package modelo.BEAN;
 
-///hola
 public class BeanRegistrarPersonal {
     
    private String rol;
